@@ -1,5 +1,5 @@
-# Example
+# Ejemplo
 
-This is a sample lecture in the Details (also you can rename this) section.
+Esta es una lección de ejemplo en la sección Detalles (también puedes cambiarle el nombre).
 
-You can use this file to add more in-depth explanations, examples, or exercises for your course.
+Puedes usar este archivo para agregar explicaciones más detalladas, ejemplos o ejercicios para tu curso.
