@@ -1,21 +1,21 @@
-# Прикупљање података
+# Recopilación de datos
 
-## Одакле долазе подаци?
+## ¿De dónde provienen los datos?
 
-Пре него што започнемо било какву анализу, први корак је прикупљање података. Без квалитетних података не можемо доћи ни до поузданих закључака. Постоји неколико основних начина да до њих дођемо:
+Antes de comenzar cualquier análisis, el primer paso es recopilar datos. Sin datos de calidad no podemos llegar a conclusiones fiables. Hay varias formas básicas de obtenerlos:
 
-- **Анкета** (упитник) - истa питања постављамо већем броју људи и бележимо њихове одговоре. Ово је најчешћи метод у друштвеним истраживањима.
+- **Encuesta** (cuestionario) - planteamos las mismas preguntas a un gran número de personas y registramos sus respuestas. Este es el método más común en la investigación social.
 
-- **Посматрање** - пратимо шта се дешава и бележимо појаве без утицаја на њих (на пример, бројимо колико особа улази у просторију).
+- **Observación** - seguimos lo que ocurre y registramos los fenómenos sin influir en ellos (por ejemplo, contamos cuántas personas entran en una habitación).
 
-- **Мерење** - користимо инструменте како бисмо добили тачне вредности (температура, висина, маса… ).
+- **Medición** - utilizamos instrumentos para obtener valores precisos (temperatura, altura, masa…).
 
-- **Експеримент** - намерно мењамо један фактор и пратимо како се то одражава на резултате.
+- **Experimento** - cambiamos deliberadamente un factor y observamos cómo esto repercute en los resultados.
 
-![Prikupljanje podataka](images/podaci.png)
+![Recopilación de datos](images/podaci.png)
 
-Током прикупљања података, најчешће добијамо велику количину појединачних вредности, које саме по себи још увек немају јасно значење. У том облику тешко је да их разумемо, упоредимо или из њих уочимо неке правилности. Зато је важно да их добро организујемо и јасно представимо. 
+Durante la recopilación de datos, lo más frecuente es obtener una gran cantidad de valores individuales que, por sí solos, aún no tienen un significado claro. En esa forma es difícil comprenderlos, compararlos o detectar regularidades en ellos. Por eso es importante organizarlos bien y presentarlos con claridad. 
 
 ```{infonote}
-Тек када податке средимо и прикажемо на прегледан начин, они почињу да „говоре“ и постају основа за закључивање.
+Solo cuando ordenamos los datos y los mostramos de manera clara, empiezan a «hablar» y se convierten en la base para sacar conclusiones.
 ```
