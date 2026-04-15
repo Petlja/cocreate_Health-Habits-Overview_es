@@ -1,72 +1,72 @@
-# Како направити пивот табелу?
+# ¿Cómo crear una tabla dinámica?
 
 ```{infonote}
-**Четири основна елемента пивот табеле**
+**Cuatro elementos básicos de una tabla dinámica**
 
-- **Редови (*Rows*)** - Категорије које се приказују са леве стране табеле.
-- **Колоне (*Columns*)** - Категорије које се приказују у горњем делу табеле.
-- **Вредности (*Values*)** - Бројеви који се израчунавају (збир, број, просек…).
-- **Филтери (*Filters*)** - Омогућавају приказ само дела података.
+- **Filas (*Rows*)** - Categorías que se muestran en el lado izquierdo de la tabla.
+- **Columnas (*Columns*)** - Categorías que se muestran en la parte superior de la tabla.
+- **Valores (*Values*)** - Números que se calculan (suma, conteo, promedio…).
+- **Filtros (*Filters*)** - Permiten mostrar solo una parte de los datos.
 ```
 
-## Креирање пивот табеле - корак по корак
+## Crear una tabla dinámica: paso a paso
 
-### Корак 1: Означите табелу са подацима
-Кликните на било коју ћелију табеле и на тастатури притисните комбинацију тастера *Ctrl + A*
+### Paso 1: Seleccione la tabla con los datos
+Haga clic en cualquier celda de la tabla y en el teclado presione la combinación de teclas *Ctrl + A*
 
-![Korak 1](images/pivot1_sr.png)
+![Paso 1](images/pivot1_sr.png)
 
-### Корак 2: Покрените креирање пивот табеле
-Кликните на *Insert* (1), *PivotТable* (2) и изаберите опцију *From Table/Range* (3)
+### Paso 2: Inicie la creación de la tabla dinámica
+Haga clic en *Insert* (1), *PivotTable* (2) y elija la opción *From Table/Range* (3)
 
-![Korak 2](images/pivot2_sr.png)
+![Paso 2](images/pivot2_sr.png)
 
-### Корак 3: Изаберите где желите да се нађе ваша пивот табела
-Можете да изаберете нови радни лист (*New Worksheet*) или локацију на истом радном листу (*Existing Worksheet*) (4) (у том случају потребно је да кликнете на ћелију у оквиру које ће се наћи горњи леви угао ваше пивот табеле) (5). Потврдите кликом на *Ok*. (6)
+### Paso 3: Elija dónde desea que se ubique su tabla dinámica
+Puede elegir una nueva hoja de trabajo (*New Worksheet*) o una ubicación en la misma hoja (*Existing Worksheet*) (4) (en ese caso debe hacer clic en la celda en la que se ubicará la esquina superior izquierda de su tabla dinámica) (5). Confirme con un clic en *Ok*. (6)
 
-![Korak 3](images/pivot3_sr.png)
+![Paso 3](images/pivot3_sr.png)
 
-### Корак 4: Упознајте едитор пивот табела
-Подешавања пивот табеле вршите превлачењем поља (7) у одређене зоне (8).
+### Paso 4: Conozca el editor de tablas dinámicas
+Ajusta la tabla dinámica arrastrando los campos (7) a las zonas correspondientes (8).
 
-![Korak 4](images/pivot4_sr.png)
+![Paso 4](images/pivot4_sr.png)
 
-### Корак 5: Додајте редове (*Rows*) и вредности (*Values*)
-За први пример из увода у зону *Rows* превукли смо поље *воће*. У зону *Values* превукли смо поље *количина [kg]*
+### Paso 5: Agregue filas (*Rows*) y valores (*Values*)
+Para el primer ejemplo de la introducción, arrastramos el campo *воће* a la zona *Rows*. A la zona *Values* arrastramos el campo *количина [kg]*
 
-![Korak 5](images/pivot5_sr.png)
+![Paso 5](images/pivot5_sr.png)
 
 
 ```{infonote}
-Начин израчунавања у области Values можемо променити преко опције Value Field Settings. Поред подразумеваног збира (Sum), доступни су и Average (просек), Count (број уноса), Min и Max. Важно је знати да ће, уколико се у област Values постави текстуално поље, пивот табела уместо збира аутоматски приказати број појављивања тог текста (Count).
+Podemos cambiar el modo de cálculo en el área Values mediante la opción Value Field Settings. Además de la suma predeterminada (Sum), también están disponibles Average (promedio), Count (número de registros), Min y Max. Es importante saber que, si se coloca un campo de texto en el área Values, la tabla dinámica mostrará automáticamente el número de apariciones de ese texto (Count) en lugar de la suma.
 ```
 
-### Корак 7: Додајте колоне (опционо)
-Табелу у којој се види и на који начин су купци плаћали добили смо додавањем поља *начин плаћања* у зону Колоне (*Columns*) (10)
+### Paso 7: Agregue columnas (opcional)
+La tabla en la que también se ve de qué manera pagaron los clientes se obtuvo agregando el campo *начин плаћања* a la zona Columnas (*Columns*) (10)
 
-![Korak 6](images/pivot6_sr.png)
+![Paso 6](images/pivot6_sr.png)
 
 ```{infonote}
-Уколико се деси да вам се затворио прозор са десне стране који омогућава подешавање приказа пивот табеле, можете га поново отворити тако што ћете кликнути на било коју ћелију пивот табеле и изабрати опцију Show field list.
+Si ocurre que se cerró la ventana de la derecha que permite configurar la vista de la tabla dinámica, puede volver a abrirla haciendo clic en cualquier celda de la tabla dinámica y seleccionando la opción Show field list.
 ```
-### Корак 8: Додајте филтере (опционо)
-Додавање филтера омогућиће вам да из велике количине података брзо издвојите и прикажете само оне вредности које су вам у датом тренутку потребне, без измене почетне табеле и додатних прорачуна. 
+### Paso 8: Agregue filtros (opcional)
+Agregar filtros le permitirá seleccionar rápidamente de una gran cantidad de datos y mostrar solo aquellos valores que necesita en ese momento, sin modificar la tabla original ni hacer cálculos adicionales. 
 
 ```{infonote}
-Иако је пивот табела повезана са оригиналном табелом, измене у њој се не ажурирају аутоматски. Након сваке измене потребно је десним кликом на пивот табелу изабрати опцију Refresh, како би се сви резултати освежили.
+Aunque la tabla dinámica está vinculada a la tabla original, los cambios en ella no se actualizan automáticamente. Después de cada modificación es necesario hacer clic derecho sobre la tabla dinámica y elegir la opción Refresh para actualizar todos los resultados.
 ```
-## Пивот графикон
+## Gráfico dinámico
 
-Подаци из пивот табеле могу се приказати и графички. На тај начин резултати постају прегледнији и лакше се уочавају разлике и односи.
+Los datos de la tabla dinámica también se pueden mostrar de forma gráfica. De este modo, los resultados son más claros y las diferencias y relaciones se observan con mayor facilidad.
 
-Пивот графикон се прави на следећи начин:
+El gráfico dinámico se crea de la siguiente manera:
 
-Кликните унутар пивот табеле и из менија изаберите опцију *PivotChart*. Одаберите тип графикона и потврдите избор.
+Haga clic dentro de la tabla dinámica y, en el menú, elija la opción *PivotChart*. Seleccione el tipo de gráfico y confirme la elección.
 
-![Pivot grafikon](images/chart1_sr.png)
+![Gráfico dinámico](images/chart1_sr.png)
 
 ```{infonote}
-Графикон је повезан са пивот табелом, што значи да се свака промена у табели аутоматски приказује и на графикону. Приликом графичког приказа, предности примене филтера посебно долазе до изражаја.
+El gráfico está vinculado a la tabla dinámica, lo que significa que cualquier cambio en la tabla se refleja automáticamente también en el gráfico. Al presentar los datos gráficamente, las ventajas de aplicar filtros se hacen especialmente evidentes.
 ```
 
-![Pivot grafikon](images/chart2_sr.png)
+![Gráfico dinámico](images/chart2_sr.png)

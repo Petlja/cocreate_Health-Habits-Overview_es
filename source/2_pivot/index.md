@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Пивот табеле
+# Tablas dinámicas
 
 ```{toctree}
 :maxdepth: 2

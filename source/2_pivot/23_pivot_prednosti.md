@@ -1,35 +1,35 @@
-# Да резимирамо...
+# Para resumir...
 
-## Предности коришћења пивота
+## Ventajas de usar tablas dinámicas
 
-- **Брзина анализе** - Уместо ручног сабирања и писања формула, довољно је да превучемо поља и одмах добијамо збир, просек, број или проценат.
+- **Rapidez del análisis** - En lugar de sumar manualmente y escribir fórmulas, basta con arrastrar campos y obtenemos de inmediato la suma, el promedio, el conteo o el porcentaje.
 
-- **Флексибилност** - Исте податке можемо да посматрамо по различитим критеријумима (нпр. по данима, по производима, по одељењима) без прављења нових табела.
+- **Flexibilidad** - Podemos observar los mismos datos según distintos criterios (por ejemplo, por días, por productos, por departamentos) sin crear nuevas tablas.
 
-- **Нема ручних формула** - Пивот табела сама прави прорачуне, што смањује могућност грешке.
+- **Sin fórmulas manuales** - La tabla dinámica realiza los cálculos por sí sola, lo que reduce la posibilidad de errores.
 
-- **Аутоматско ажурирање** - Када се промене подаци у почетној табели, довољно је кликнути на *Refresh* и сви резултати се аутоматски ажурирају.
+- **Actualización automática** - Cuando cambian los datos en la tabla original, basta con hacer clic en *Refresh* y todos los resultados se actualizan automáticamente.
 
-- **Једноставно филтрирање података** - Можемо приказати само део података који нас занима (нпр. једно одељење, један производ, један дан).
+- **Filtrado sencillo de datos** - Podemos mostrar solo la parte de los datos que nos interesa (por ejemplo, un departamento, un producto o un día).
 
-- **Директна визуелизација** - Из пивот табеле се једним кликом прави графикон који се такође аутоматски ажурира.
+- **Visualización directa** - Con un solo clic se crea un gráfico a partir de la tabla dinámica, que también se actualiza automáticamente.
 
-- **Откривање образаца** - Лако уочавамо шта је највише заступљено, где је највећа вредност, како се подаци мењају кроз време.
+- **Detección de patrones** - Vemos fácilmente qué es lo más frecuente, dónde está el valor más alto y cómo cambian los datos con el tiempo.
 
-- **Професионални алат** - Пивот се користи у фирмама за анализу продаје, трошкова, резултата анкета и других великих скупова података.
+- **Herramienta profesional** - Las tablas dinámicas se utilizan en empresas para analizar ventas, costos, resultados de encuestas y otros grandes conjuntos de datos.
 
-## Честе грешке
+## Errores frecuentes
 
-Да би резултати били тачни, важно је да избегнемо грешке. Приликом креирања пивот табеле, обавезно обратите пажњу на следеће:
+Para que los resultados sean correctos, es importante evitar errores. Al crear una tabla dinámica, preste atención a lo siguiente:
 
-- **Недоследно писање вредности** - Исти податак написан на различите начине (нпр. Јабука, јабука, Jabuka) биће приказан као три различите ставке.
+- **Escritura inconsistente de valores** - El mismo dato escrito de distintas maneras (por ejemplo, Jабука, јабука, Jabuka) se mostrará como tres elementos diferentes.
 
-- **Недостају називи колона** - Без јасних назива пивот табела не зна шта треба да анализира.
+- **Faltan nombres de columnas** - Sin nombres claros, la tabla dinámica no sabe qué debe analizar.
 
-- **Ручно мењање пивот табеле** - Унутар пивот табеле не сме се додатно ништа уписивати – све промене се раде у почетној табели.
+- **Modificar manualmente la tabla dinámica** - Dentro de la tabla dinámica no se debe escribir nada adicional; todos los cambios se realizan en la tabla original.
 
-- **Заборављено освежавање (*Refresh*)** - После измене података потребно је кликнути на Refresh да би резултати били тачни.
+- **Olvidar actualizar (*Refresh*)** - Después de cambiar los datos es necesario hacer clic en Refresh para que los resultados sean correctos.
 
 ```{infonote}
-Анализа података коришћењем пивот табела и графика не само да штеди време и смањује грешке, већ нам омогућава да тренутно уочимо важне информације, донесемо прецизне закључке и ефикасно представимо резултате чак и из веома великог скупа података.
+El análisis de datos mediante tablas y gráficos dinámicos no solo ahorra tiempo y reduce errores, sino que también nos permite identificar de inmediato información importante, sacar conclusiones precisas y presentar los resultados de forma eficaz incluso a partir de un conjunto de datos muy grande.
 ```
