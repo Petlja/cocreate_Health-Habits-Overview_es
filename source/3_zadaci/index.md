@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Задатак и провера знања
+# Tarea y comprobación de conocimientos
 
 ```{toctree}
 :maxdepth: 1

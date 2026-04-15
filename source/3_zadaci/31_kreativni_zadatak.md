@@ -1,42 +1,41 @@
-# Креативни задатак - дизајнирајте кампању!
+# ¡Tarea creativa - diseña una campaña!
 
+## Descripción de la tarea
 
-## Опис задатка
+Después de realizar la encuesta sobre los hábitos saludables de los estudiantes y analizar los datos recopilados, tu tarea es elegir un resultado y presentarlo a través de una campaña creativa.
 
-Након спроведене анкете о здравим навикама ученика и анализе прикупљених података, ваш задатак је да изаберете један резултат и прикажете га кроз креативну кампању.
+- Analicen los datos utilizando tablas dinámicas y gráficos, y destaquen uno o más hechos que consideren importantes
+- Inventen un eslogan (breve, claro y positivo)
+- Creen una infografía
+- Presenten el resultado a la clase
 
-- Анализирајте податке применом пивот табела и графика и издвојте једну или више чињеница које сматрате значајним
-- Осмислите слоган (кратак, јасан, позитиван)
-- Направите инфографику
-- Презентујте резултат одељењу
-
-![Kampanja](kampanja.png)
+![Campaña](kampanja.png)
 
 ```{infonote}
-Подсетник за добру сарадњу у групи
+Recordatorio para una buena colaboración en grupo
 
-- Слушамо једни друге.
-- Свако има прилику да допринесе.
-- Делимо задатке договором.
-- Одлуке доносимо заједно.
-- Помажемо једни другима.
+- Nos escuchamos unos a otros.
+- Todos tienen la oportunidad de aportar.
+- Repartimos las tareas de común acuerdo.
+- Tomamos las decisiones juntos.
+- Nos ayudamos unos a otros.
 ```
 
-## Савети за добар визуелни приказ података (инфографику)
-- Боје: 2–3 максимално (црвена, зелена, плава/сива)
-- Типографија: слоган највећи, бројеви средње величине, објашњење најмање
-- График: увек укључити пивот график
-- Позив на акцију: конкретан корак
+## Consejos para una buena representación visual de los datos (infografía)
+- Colores: 2–3 como máximo (rojo, verde, azul/gris)
+- Tipografía: el eslogan más grande, los números de tamaño mediano, la explicación más pequeña
+- Gráfico: incluir siempre un gráfico dinámico
+- Llamado a la acción: un paso concreto
 
-## Критеријуми оцењивања
-- Тачност података – 30 бодова
-- Јасноћа поруке – 25 бодова
-- Креативност слогана – 20 бодова
-- Визуелни дизајн – 15 бодова
-- Презентација – 10 бодова
+## Criterios de evaluación
+- Exactitud de los datos – 30 puntos
+- Claridad del mensaje – 25 puntos
+- Creatividad del eslogan – 20 puntos
+- Diseño visual – 15 puntos
+- Presentación – 10 puntos
 
 
-## Линк ка месту за постављање урађених инфографика
+## Enlace al lugar para subir las infografías realizadas
 
-[Погледај радове или постави свој рад](https://shorturl.at/wG4WQ)
+[Ver trabajos o subir tu propio trabajo](https://shorturl.at/wG4WQ)
 
