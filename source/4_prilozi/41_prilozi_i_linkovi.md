@@ -1,65 +1,65 @@
-# Прилози
+# Apéndices
 
-## Питања за ученике о сарадњи током израде задатка
+## Preguntas para los estudiantes sobre la colaboración durante la realización de la tarea
 
-### Функционисање групе (1–5)
+### Funcionamiento del grupo (1–5)
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+*(1 – totalmente en desacuerdo | 5 – totalmente de acuerdo)*
 
-✔️ Сви чланови групе су активно учествовали у задатку  
-✔️ Слушали смо једни друге и поштовали свачије идеје  
-✔️ Одговорности смо поделили равноправно  
-✔️ Одлуке смо доносили заједно као тим  
-✔️ Пружали смо подршку једни другима када је некоме била потребна помоћ  
+✔️ Todos los miembros del grupo participaron activamente en la tarea  
+✔️ Nos escuchamos unos a otros y respetamos las ideas de todos  
+✔️ Compartimos las responsabilidades de manera equitativa  
+✔️ Tomamos las decisiones juntos como equipo  
+✔️ Nos apoyamos unos a otros cuando alguien necesitaba ayuda  
 
-### Моје учешће - питања за ученике (1–5)
+### Mi participación - preguntas para los estudiantes (1–5)
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+*(1 – totalmente en desacuerdo | 5 – totalmente de acuerdo)*
 
-✔️ Износио/износила сам своје идеје и мишљење  
-✔️ Учествовао/учествовала сам у изради пивот табела  
-✔️ Учествовао/учествовала сам у изради графикона  
-✔️ Учествовао/учествовала сам у припреми закључака  
-✔️ Учествовао/учествовала сам у презентацији наше групе  
+✔️ Expresé mis ideas y opiniones  
+✔️ Participé en la elaboración de tablas dinámicas  
+✔️ Participé en la elaboración de gráficos  
+✔️ Participé en la preparación de las conclusiones  
+✔️ Participé en la presentación de nuestro grupo  
 
-### Чек-листа за наставнике о сарадњи током израде задатка
+### Lista de verificación para docentes sobre la colaboración durante la realización de la tarea
 
-✔️ сви ученици имају улогу  
-✔️ постоји договор унутар групе  
-✔️ ученици образлажу своје одлуке  
-✔️ помажу једни другима  
-✔️ равномерно користе дигитални алат
+✔️ todos los estudiantes tienen un rol  
+✔️ hay acuerdo dentro del grupo  
+✔️ los estudiantes justifican sus decisiones  
+✔️ se ayudan unos a otros  
+✔️ utilizan la herramienta digital de manera equilibrada
 
-### Предлози питања за анкету о здравим навикама 
+### Propuestas de preguntas para la encuesta sobre hábitos saludables 
 
-(**НАПОМЕНА: Анкета мора бити потпуно АНОНИМНА!**)
+(**NOTA: ¡La encuesta debe ser completamente ANÓNIMA!**)
 
-- Пол
-- Који си разред?
-- Колико сати у просеку спаваш у току ноћи?
-- Колико се одморно осећаш у току дана? (1-5)
-- Колико времена дневно користиш телефон?
-- Колико сати укупно проведеш гледајући у екран током дана? (ТВ + рачунар + телефон, унеси број сати)
-- Када најчешће користиш телефон?
-- За шта најчешће користиш телефон?
-- Да ли се бавиш спортом / редовно вежбаш?
-- Ако вежбаш, колико сати? (унеси број сати у току недеље)
-- Како се најчешће крећеш током дана?
-- Колико често возиш бицикл? (унеси број пута у току недеље)
-- Колико се дневно крећеш? (унеси број минута)
-- Да ли редовно доручкујеш?
-- Да ли имаш кућног љубимца?
-- Колико порција воћа у просеку поједеш у току недеље?
-- Колико често једеш слаткише или грицкалице? (унеси број пута у току недеље)
-- Колико воде попијеш дневно? (у литрама)
-- Колико се често смејеш? (1-5)
-- Како би оценио/оценила своје најчешће расположење? (1-5)
-- често се виђаш са другарима изван школе? (1-5)
-- Коју би навику највише волео/волела да побољшаш?
-- Колико важним сматраш за здрав и квалитетнији живот [довољно сна]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [мање времена на телефону]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [здрава исхрана]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [редовна физичка активност]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [добро расположење]? (1-5)
-- Да ли често боравиш у природи?
+- Sexo
+- ¿En qué grado estás?
+- ¿Cuántas horas duermes en promedio durante la noche?
+- ¿Qué tan descansado/a te sientes durante el día? (1-5)
+- ¿Cuánto tiempo al día usas el teléfono?
+- ¿Cuántas horas en total pasas mirando una pantalla durante el día? (TV + computadora + teléfono, ingresa el número de horas)
+- ¿Cuándo usas el teléfono con más frecuencia?
+- ¿Para qué usas el teléfono con más frecuencia?
+- ¿Practicas deporte / haces ejercicio regularmente?
+- Si haces ejercicio, ¿cuántas horas? (ingresa el número de horas durante la semana)
+- ¿Cómo te desplazas con más frecuencia durante el día?
+- ¿Con qué frecuencia montas en bicicleta? (ingresa el número de veces durante la semana)
+- ¿Cuánto te mueves al día? (ingresa el número de minutos)
+- ¿Desayunas regularmente?
+- ¿Tienes una mascota?
+- ¿Cuántas porciones de fruta comes en promedio durante la semana?
+- ¿Con qué frecuencia comes dulces o snacks? (ingresa el número de veces durante la semana)
+- ¿Cuánta agua bebes al día? (en litros)
+- ¿Con qué frecuencia te ríes? (1-5)
+- ¿Cómo calificarías tu estado de ánimo más frecuente? (1-5)
+- ¿Con qué frecuencia te ves con amigos fuera de la escuela? (1-5)
+- ¿Qué hábito te gustaría mejorar más?
+- ¿Qué tan importante consideras para una vida saludable y de mayor calidad [dormir lo suficiente]? (1-5)
+- ¿Qué tan importante consideras para una vida saludable y de mayor calidad [pasar menos tiempo en el teléfono]? (1-5)
+- ¿Qué tan importante consideras para una vida saludable y de mayor calidad [alimentación saludable]? (1-5)
+- ¿Qué tan importante consideras para una vida saludable y de mayor calidad [actividad física regular]? (1-5)
+- ¿Qué tan importante consideras para una vida saludable y de mayor calidad [buen estado de ánimo]? (1-5)
+- ¿Pasas tiempo en la naturaleza con frecuencia?
 
