@@ -17,7 +17,6 @@ will_learn:
     - Cómo se interpretan los datos y se formulan conclusiones
     - Cómo se analizan los datos de manera colaborativa y se presentan los resultados
 
-
 needed: 
     - Computadora con Microsoft Excel instalado o acceso a Google Sheets
 useful:
