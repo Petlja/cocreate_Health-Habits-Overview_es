@@ -1,6 +1,7 @@
 ﻿---
 status: exclude
 alias: cocreate-health-habits_es
+lang: en
 short_description: Análisis de datos sobre hábitos saludables
 long_description: >
     <p>Este curso introduce a los estudiantes en el análisis de datos mediante tablas dinámicas y gráficos dinámicos. A través del trabajo práctico en la computadora, los estudiantes aprenden cómo organizar, agrupar, filtrar y presentar visualmente los datos, así como cómo extraer conclusiones de ellos. Durante el curso, los estudiantes notarán las diferencias entre las tablas y gráficos comunes y los dinámicos, y desarrollarán gradualmente confianza en el análisis de datos mediante el trabajo colaborativo..</p>
