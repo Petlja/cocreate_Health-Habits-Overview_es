@@ -41,7 +41,7 @@ Para el primer ejemplo de la introducción, arrastramos el campo *воће* a la
 Podemos cambiar el modo de cálculo en el área Values mediante la opción Value Field Settings. Además de la suma predeterminada (Sum), también están disponibles Average (promedio), Count (número de registros), Min y Max. Es importante saber que, si se coloca un campo de texto en el área Values, la tabla dinámica mostrará automáticamente el número de apariciones de ese texto (Count) en lugar de la suma.
 ```
 
-### Paso 7: Agregue columnas (opcional)
+### Paso 6: Agregue columnas (opcional)
 La tabla en la que también se ve de qué manera pagaron los clientes se obtuvo agregando el campo *начин плаћања* a la zona Columnas (*Columns*) (10)
 
 ![Paso 6](images/pivot6_sr.png)
@@ -49,7 +49,7 @@ La tabla en la que también se ve de qué manera pagaron los clientes se obtuvo 
 ```{infonote}
 Si ocurre que se cerró la ventana de la derecha que permite configurar la vista de la tabla dinámica, puede volver a abrirla haciendo clic en cualquier celda de la tabla dinámica y seleccionando la opción Show field list.
 ```
-### Paso 8: Agregue filtros (opcional)
+### Paso 7: Agregue filtros (opcional)
 Agregar filtros le permitirá seleccionar rápidamente de una gran cantidad de datos y mostrar solo aquellos valores que necesita en ese momento, sin modificar la tabla original ni hacer cálculos adicionales. 
 
 ```{infonote}
