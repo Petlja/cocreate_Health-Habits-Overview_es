@@ -1,6 +1,7 @@
 ﻿---
 status: exclude
 alias: cocreate-health-habits_es
+lang: en
 short_description: Análisis de datos sobre hábitos saludables
 lang: en
 long_description: >

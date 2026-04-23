@@ -33,9 +33,3 @@ Recordatorio para una buena colaboración en grupo
 - Creatividad del eslogan – 20 puntos
 - Diseño visual – 15 puntos
 - Presentación – 10 puntos
-
-
-## Enlace al lugar para subir las infografías realizadas
-
-[Ver trabajos o subir tu propio trabajo](https://shorturl.at/wG4WQ)
-

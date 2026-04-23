@@ -22,7 +22,7 @@
 
 Para que los resultados sean correctos, es importante evitar errores. Al crear una tabla dinámica, preste atención a lo siguiente:
 
-- **Escritura inconsistente de valores** - El mismo dato escrito de distintas maneras (por ejemplo, Jабука, јабука, Jabuka) se mostrará como tres elementos diferentes.
+- **Escritura inconsistente de valores** - El mismo dato escrito de distintas maneras (por ejemplo, Jабука, јабука, Jabuka) se mostrará como tres elementos diferentes. Porque están escritos en dos alfabetos diferentes en idioma serbio y con diferencia entre mayúsculas y minúsculas.
 
 - **Faltan nombres de columnas** - Sin nombres claros, la tabla dinámica no sabe qué debe analizar.
 
