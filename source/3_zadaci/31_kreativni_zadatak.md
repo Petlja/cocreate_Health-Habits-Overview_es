@@ -2,23 +2,23 @@
 
 ## Descripción de la tarea
 
-Después de realizar la encuesta sobre los hábitos saludables de los estudiantes y analizar los datos recopilados, tu tarea es elegir un resultado y presentarlo a través de una campaña creativa.
+Nuestra propuesta es que realicen una encuesta, ya sea presencial o en línea mediante, por ejemplo, Google Forms (las preguntas sugeridas se encuentran en el anexo). Después de realizar la encuesta sobre los hábitos saludables de los estudiantes y analizar los datos recopilados, su tarea es elegir un resultado y presentarlo a través de una campaña creativa.
 
-- Analicen los datos utilizando tablas dinámicas y gráficos, y destaquen uno o más hechos que consideren importantes
+- Analicen los datos mediante tablas dinámicas y gráficos e identifiquen uno o más hechos que consideren importantes
 - Inventen un eslogan (breve, claro y positivo)
-- Creen una infografía
-- Presenten el resultado a la clase
+- Creen una infografía (y, si es necesario, un texto breve de apoyo)
+- Presenten el resultado (presentación, póster o video) al grupo/clase
 
 ![Campaña](kampanja.png)
 
 ```{infonote}
 Recordatorio para una buena colaboración en grupo
 
-- Nos escuchamos unos a otros.
-- Todos tienen la oportunidad de aportar.
-- Repartimos las tareas de común acuerdo.
-- Tomamos las decisiones juntos.
-- Nos ayudamos unos a otros.
+- Nos escuchamos unos a otros, con paciencia y sin hablar por encima de los demás.
+- Cada persona debe expresar de forma constructiva su opinión y contribuir al trabajo del grupo.
+- Repartimos las tareas por acuerdo, según los intereses y conocimientos de cada persona.
+- Tomamos las decisiones juntos, mediante discusión, sin imponer la opinión de nadie.
+- Nos ayudamos unos a otros con las tareas.
 ```
 
 ## Consejos para una buena representación visual de los datos (infografía)
@@ -27,9 +27,9 @@ Recordatorio para una buena colaboración en grupo
 - Gráfico: incluir siempre un gráfico dinámico
 - Llamado a la acción: un paso concreto
 
-## Criterios de evaluación
-- Exactitud de los datos – 30 puntos
-- Claridad del mensaje – 25 puntos
-- Creatividad del eslogan – 20 puntos
+## Criterios de evaluación de la tarea creativa
+- Exactitud de los datos – 40 puntos
+- Claridad del mensaje – 20 puntos
+- Creatividad del eslogan – 15 puntos
 - Diseño visual – 15 puntos
 - Presentación – 10 puntos

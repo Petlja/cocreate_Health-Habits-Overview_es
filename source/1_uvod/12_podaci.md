@@ -4,17 +4,21 @@
 
 Antes de comenzar cualquier análisis, el primer paso es recopilar datos. Sin datos de calidad no podemos llegar a conclusiones fiables. Hay varias formas básicas de obtenerlos:
 
-- **Encuesta** (cuestionario) - planteamos las mismas preguntas a un gran número de personas y registramos sus respuestas. Este es el método más común en la investigación social.
+- **Encuesta** (cuestionario): planteamos las mismas preguntas a un gran número de personas y registramos sus respuestas. Este es el método más común en la investigación social.
 
-- **Observación** - seguimos lo que ocurre y registramos los fenómenos sin influir en ellos (por ejemplo, contamos cuántas personas entran en una habitación).
+- **Observación**: seguimos lo que ocurre y registramos los fenómenos sin influir en ellos (por ejemplo, contamos cuántas personas entran en una habitación).
 
-- **Medición** - utilizamos instrumentos para obtener valores precisos (temperatura, altura, masa…).
+- **Medición**: utilizamos instrumentos para obtener valores precisos (temperatura, altura, masa…).
 
-- **Experimento** - cambiamos deliberadamente un factor y observamos cómo esto repercute en los resultados.
+- **Experimento**: cambiamos deliberadamente un factor y observamos cómo esto repercute en los resultados.
+
+- A veces no hace falta recopilar datos por nuestra cuenta, sino que se pueden descargar de bases de datos de acceso público (por ejemplo, del portal de datos abiertos de una ciudad o de un país).
+
+- Un ejemplo sencillo es que un profesor de educación física puede llevar un registro de los resultados de una prueba de condición física a lo largo del año y luego analizarlos para ver el progreso del alumnado.
 
 ![Recopilación de datos](images/podaci.png)
 
-Durante la recopilación de datos, lo más frecuente es obtener una gran cantidad de valores individuales que, por sí solos, aún no tienen un significado claro. En esa forma es difícil comprenderlos, compararlos o detectar regularidades en ellos. Por eso es importante organizarlos bien y presentarlos con claridad. 
+Durante la recopilación de datos, lo más frecuente es obtener una gran cantidad de valores individuales que, por sí solos, aún no tienen un significado claro. En esa forma es difícil comprender qué nos dicen los datos.
 
 ```{infonote}
 Solo cuando ordenamos los datos y los mostramos de manera clara, empiezan a «hablar» y se convierten en la base para sacar conclusiones.

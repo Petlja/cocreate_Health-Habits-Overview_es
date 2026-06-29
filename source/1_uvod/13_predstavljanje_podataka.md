@@ -2,7 +2,7 @@
 
 ## Tabla común
 
-La forma más sencilla de organizar y mostrar los datos es presentarlos en una **tabla**.
+La forma más sencilla de organizar y mostrar los datos es presentarlos en una **tabla**. Incluso cuando descargamos o recopilamos datos, normalmente llegan ya organizados como una tabla.
 Las filas representan elementos individuales (por ejemplo, productos, empleados o meses), y las columnas sus características (cantidad vendida, ingresos obtenidos, etc.).
 
 Las tablas son especialmente útiles cuando:
@@ -13,7 +13,7 @@ Las tablas son especialmente útiles cuando:
 
 - buscamos un dato concreto.
 
-Tomemos como ejemplo una pequeña empresa que vende material escolar. Al final de la semana se elaboró una tabla en la que se indica cuántos cuadernos, lápices, mochilas y reglas se vendieron. Mientras estos datos son solo registros individuales, es difícil formarse una idea de las ventas. Pero cuando los sumamos y los mostramos en una tabla, podemos llegar fácilmente a la conclusión de cuál producto se vende más y cuál menos.
+Tomemos como ejemplo una pequeña empresa que vende material escolar. Al final de la semana se elaboró una tabla en la que se indica cuántos cuadernos, lápices, mochilas y reglas se vendieron.
 
 Por ejemplo: se vendieron 140 cuadernos, 113 lápices, 20 mochilas y 21 reglas. Todo queda claro y ordenado en un solo lugar.
 
@@ -42,6 +42,3 @@ Distinguimos varios tipos de gráficos. Los principales y más utilizados son:
 ```
 
 **Si no están seguros, ¡el gráfico de columnas suele ser casi siempre una buena elección!**
-
-
-
